@@ -16,7 +16,7 @@ Follow the below steps to run the project.
 
 ## Output
 
-[![Toggle Switch](https://www.cluemediator.com/wp-content/uploads/2022/01/output-password-and-confirm-password-validation-in-react-clue-mediator.gif)](https://www.cluemediator.com/password-and-confirm-password-validation-in-react)
+[![Password and Confirm Password Validation](https://www.cluemediator.com/wp-content/uploads/2022/01/output-password-and-confirm-password-validation-in-react-clue-mediator.gif)](https://www.cluemediator.com/password-and-confirm-password-validation-in-react)
 
 **Follow us on [GitHub](https://github.com/cluemediator) for more update.**
 
